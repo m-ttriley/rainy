@@ -1,0 +1,6 @@
+#rainbg {
+	overflow: hidden;
+	position:absolute;
+	z-index: 9;
+}
+
